@@ -38,17 +38,13 @@ Buneko Nepal, Kathmandu | July 2023 – August 2023
 - Ensured zero deficiencies in inventory logs through systematic verification
 
 ## PROJECTS
-Stock Market Data Collector & Viewer | Python, mySQL, 
-- Developed Python scripts to fetch structured stock data from APIs and websites
-- Implemented data cleaning, preprocessing, and validation for accurate storage
-- Stored daily stock information in MySQL database for querying and analysis
-- Automated CSV export for reporting and offline analysis
+Stock Market Data Collector & Viewer | Python, MySQL
+- Developed Python scripts to fetch and process daily stock market data from APIs
+- Performed data cleaning, validation, and normalization to ensure data integrity
+- Stored structured financial data in a MySQL database and executed SQL queries for analysis
+- Automated CSV exports and implemented a CLI-based search for stock lookup
 
-Data Analysis Project | Python, Pandas, NumPy, Matplotlib
-- Analyzed datasets using statistical methods and Python programming
-- Created data visualizations using Matplotlib to identify trends and patterns
-- Cleaned and processed raw data for accurate analysis and insights
-- Generated reports with actionable recommendations based on data findings
+
 
 ## CERTIFICATIONS
 Bronze Honor Recipient | International Youth Math Challenge (IYMC) | 2023
