@@ -38,11 +38,11 @@ Buneko Nepal, Kathmandu | July 2023 – August 2023
 - Ensured zero deficiencies in inventory logs through systematic verification
 
 ## PROJECTS
-Website Data Scraper and CSV Exporter | Python, BeautifulSoup, Pandas
-- Developed Python script to extract structured data from websites using web scraping techniques
-- Implemented data cleaning algorithms for accurate data processing and validation
-- Exported cleaned data to CSV format for further analysis and reporting
-- Added error handling and logging systems for reliable data extraction
+Stock Market Data Collector & Viewer | Python, mySQL, 
+- Developed Python scripts to fetch structured stock data from APIs and websites
+- Implemented data cleaning, preprocessing, and validation for accurate storage
+- Stored daily stock information in MySQL database for querying and analysis
+- Automated CSV export for reporting and offline analysis
 
 Data Analysis Project | Python, Pandas, NumPy, Matplotlib
 - Analyzed datasets using statistical methods and Python programming
