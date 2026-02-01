@@ -44,12 +44,13 @@ Stock Market Data Collector & Viewer | Python, MySQL
 - Stored structured financial data in a MySQL database and executed SQL queries for analysis
 - Automated CSV exports and implemented a CLI-based search for stock lookup
 
-
-
 ## CERTIFICATIONS
-Bronze Honor Recipient | International Youth Math Challenge (IYMC) | 2023
-- Awarded for problem-solving skills and mathematical excellence
-- Ranked in top 15% globally in competitive mathematics challenge
+- SQL (Basic) Certification | HackerRank | 2026
+
+- Bronze Honor Recipient | International Youth Math Challenge (IYMC) | 2023  
+  Ranked in top 15% globally for problem-solving and mathematical reasoning
+
+
 
 ## ACHIEVEMENTS
 Xavier Academy Science Exhibition Organizer | 2022
