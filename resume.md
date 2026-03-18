@@ -42,7 +42,8 @@ Stock Market Data Collector & Viewer | Python, MySQL
 - Developed Python scripts to fetch and process daily stock market data from APIs
 - Performed data cleaning, validation, and normalization to ensure data integrity
 - Stored structured financial data in a MySQL database and executed SQL queries for analysis
-- Automated CSV exports and implemented a CLI-based search for stock lookup
+- Automated CSV exports and implemented a CLI-based search for stock lookup 
+  
 
 F1 Race Day Notifier Bot | Python, Pandas, Viber API, GitHub Actions
 - Fetched live Formula 1 session data from the OpenF1 REST API and parsed it into a pandas DataFrame
