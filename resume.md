@@ -44,6 +44,11 @@ Stock Market Data Collector & Viewer | Python, MySQL
 - Stored structured financial data in a MySQL database and executed SQL queries for analysis
 - Automated CSV exports and implemented a CLI-based search for stock lookup
 
+F1 Race Day Notifier Bot | Python, Pandas, Viber API, GitHub Actions
+- Fetched live Formula 1 session data from the OpenF1 REST API and parsed it into a pandas DataFrame
+- Applied datetime filtering logic to detect next-day races and extract location and time details
+- Delivered automated race alerts to Viber messenger via the Viber Bot API
+- Deployed on GitHub Actions to run on a daily schedule with no manual intervention or local machine required
 ## CERTIFICATIONS
 - SQL (Basic) Certification | HackerRank | 2026
 
